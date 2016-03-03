@@ -8,10 +8,11 @@ OUTPUT: sum of the numbers a, b.
 
 ERROR CASES:
 
+
 NOTES:
 */
 
 int sum(int a, int b)
 {
-	return 0;
+	return a+b;
 }
